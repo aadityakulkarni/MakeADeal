@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="1. Terms of use\nAny user using this app (Make a Deal) is using it at own risks. Developer is not responsible for any issues caused by the app. All information on the app and the app itself is all entertainment purpose only and that the app is not providing any sort of legal or professional advice. The app Make a Deal provides a simple basis of visual deal and that the deal created can be forged or changed.  The deal created by this app cannot be held as evidence in any sort of authorized or legal actions or in court. \n2. Privacy Statement\nThe app does not get any sort of personal or contact information so it also does not share any personal or contact information. But also the app is not responsible for the privacy practices of any advertisers.\n3. Rights reserved\nDeveloper reserves the rights to change the app, shut it down or sell it or to change the term of use at any given time."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</ScrollView>
